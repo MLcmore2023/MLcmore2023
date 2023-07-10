@@ -29,9 +29,11 @@ Curriculum:
 - swap to colab+github
 
 ### to remove 
-`!git clone git@github.com:MLcmore2023/MLcmore2023.git`
+```
+!git clone https://github.com/MLcmore2023/MLcmore2023.git
 
-`!mv ./MLcmore2023/'Section 4 - 6 Exercise'/* ./MLcmore2023/'Section 4 - 6 Exercise'/.* ./`
+!mv ./MLcmore2023/'Section 4 - 6 Exercise'/* ./MLcmore2023/'Section 4 - 6 Exercise'/.* ./
+```
 
 ### kaggle notebooks (to be migrated)
 - https://www.kaggle.com/code/nathanh4903/knn-demo
