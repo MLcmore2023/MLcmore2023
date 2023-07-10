@@ -21,3 +21,5 @@ Temporary Items
 .apdisk
 
 # End of macOS specific files
+
+.ipynb_checkpoints/
