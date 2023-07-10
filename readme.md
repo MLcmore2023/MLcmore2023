@@ -13,7 +13,6 @@ Curriculum:
 | !Decision Tree            | Classification, Regression  | Supervised Learning |
 | Random Forest            | Classification, Regression  | Supervised Learning |
 | Gaussian Mixture Models  | Clustering            | Unsupervised Learning |
-
 | rnn? | Classification | Supervised Learning|
 | cnn? | Classification | Supervised Learning|
 | dqn? | ~ | RL |
@@ -36,6 +35,7 @@ Curriculum:
 ```
 
 ### kaggle notebooks (to be migrated)
+- https://www.kaggle.com/nathanh4903/python-numpy-syntaxes/
 - https://www.kaggle.com/code/nathanh4903/knn-demo
 - https://www.kaggle.com/code/nathanh4903/linear-regression-demo/
 - https://www.kaggle.com/code/nathanh4903/logistic-regression-demo/
