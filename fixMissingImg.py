@@ -5,6 +5,8 @@ import os
 before = r'<img src=\"'
 after  = r'<img src=\"https://raw.githubusercontent.com/MLcmore2023/MLcmore2023/main/'
 
+before = r"<img src=\"https://github.com/MLcmore2023/MLcmore2023/blob/main"
+after  = r"<img src=\"https://raw.githubusercontent.com/MLcmore2023/MLcmore2023/main"
 def replace_in_file(file_path,root):
     with open(file_path, 'r') as file:
         content = file.read()
