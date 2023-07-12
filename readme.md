@@ -1,23 +1,23 @@
 # MLcmore2023
 Curriculum:
 
-| Algorithm                | Task                 | Learning Type     |
-|--------------------------|----------------------|-------------------|
-| K-Nearest Neighbors      | Classification, Regression  | Supervised Learning |
-| Linear Regression        | Regression            | Supervised Learning |
-| Logistic Regression      | Classification        | Supervised Learning |
-| K-Means Clustering       | Clustering            | Unsupervised Learning |
-| !Neural Network           | Classification, Regression  | Supervised/Unsupervised Learning |
-| !Naive Bayes              | Classification        | Supervised Learning |
-| !Support Vector Machine   | Classification, Regression  | Supervised Learning |
-| !Decision Tree            | Classification, Regression  | Supervised Learning |
-| Random Forest            | Classification, Regression  | Supervised Learning |
-| Gaussian Mixture Models  | Clustering            | Unsupervised Learning |
-| rnn? | Classification | Supervised Learning|
-| cnn? | Classification | Supervised Learning|
-| dqn? | ~ | RL |
-| Q-learning? | ~ | RL |
-| Gradient policy ? | ~ | RL |
+| Algorithm                | Task                 | Learning Type     |	Status 				|
+|--------------------------|----------------------|-------------------|-------------------	|
+| K-Nearest Neighbors      | Classification, Regression  | Supervised Learning | presented	|
+| Linear Regression        | Regression            | Supervised Learning |		presented	|
+| Logistic Regression      | Classification        | Supervised Learning |		presented 	|
+| K-Means Clustering       | Clustering            | Unsupervised Learning |	presented	|
+| Neural Network           | Classification, Regression  | Supervised/Unsupervised Learning |	presented	|
+| Naive Bayes              | Classification        | Supervised Learning | to be presented	|
+| Support Vector Machine   | Classification, Regression  | Supervised Learning | to be presented	|
+| !Decision Tree            | Classification, Regression  | Supervised Learning | to be presented	|
+| Random Forest            | Classification, Regression  | Supervised Learning | polishing explanations	|
+| Gaussian Mixture Models  | Clustering            | Unsupervised Learning | polishing explanations	|
+| rnn? | Classification | Supervised Learning| NA	| 
+| cnn? | Classification | Supervised Learning| NA	| 
+| dqn? | ~ | Reinforcement Learning | NA	| 
+| Q-learning? | ~ | Reinforcement Learning | polishing explanations	|
+| Gradient policy ? | ~ | Reinforcement Learning | NA	| 
 
 ### todo
 - kmeans hw
