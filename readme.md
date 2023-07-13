@@ -13,11 +13,11 @@ Curriculum:
 | !Decision Tree            | Classification, Regression  | Supervised Learning | to be presented	|
 | Random Forest            | Classification, Regression  | Supervised Learning | polishing explanations	|
 | Gaussian Mixture Models  | Clustering            | Unsupervised Learning | polishing explanations	|
-| rnn? | Classification | Supervised Learning| NA	| 
-| cnn? | Classification | Supervised Learning| NA	| 
-| dqn? | ~ | Reinforcement Learning | NA	| 
+| 2 rnn? | Classification | Supervised Learning| NA	| 
+| 1 cnn? | Classification | Supervised Learning| NA	| 
+| 3 dqn? | ~ | Reinforcement Learning | NA	| 
 | Q-learning? | ~ | Reinforcement Learning | polishing explanations	|
-| Gradient policy ? | ~ | Reinforcement Learning | NA	| 
+| 4 Gradient policy ? | ~ | Reinforcement Learning | NA	| 
 
 ### todo
 - kmeans hw
