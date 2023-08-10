@@ -1,0 +1,43 @@
+# macOS system files
+.DS_Store
+
+# Python virtual environment
+venv/
+__pycache__/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs and temporary files
+*.log
+*.swp
+*.swo
+*.tmp
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Dependency directories
+__pycache__/
+lib/
+bin/
+
+# Compiled binaries or executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Cached files from various editors
+*.sublime-workspace
+*.idea/workspace.xml
+
+# Package files
+*.egg-info/
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
